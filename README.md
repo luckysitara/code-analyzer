@@ -3,7 +3,7 @@
 
 | Dashboard View                                                                                          | Analysis Results View                                                                                          |
 | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| ![Dashboard](https://raw.githubusercontent.com/Afolabi-cyber/code-analyzer/main/public/Screenshot1.png) | ![Analysis Results](https://raw.githubusercontent.com/Afolabi-cyber/code-analyzer/main/public/Screenshot2.png) |
+| ![Dashboard](https://raw.githubusercontent.com/luckysitara/code-analyzer/main/public/Screenshot1.png) | ![Analysis Results](https://raw.githubusercontent.com/luckysitara/code-analyzer/main/public/Screenshot2.png) |
 
 
 ---
