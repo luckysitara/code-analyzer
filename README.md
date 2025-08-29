@@ -40,7 +40,7 @@ Built with **React + React Scripts**, this project is designed to help developer
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/Afolabi-cyber/code-analyzer.git
+git clone https://github.com/luckysitara/code-analyzer.git
 cd code-analyzer
 npm install
 ```
@@ -78,7 +78,7 @@ npm run deploy
 ```
 
 The app will be hosted at:
-👉 [https://Afolabi-cyber.github.io/code-analyzer](https://Afolabi-cyber.github.io/code-analyzer)
+👉 [https://Afolabi-cyber.github.io/code-analyzer](https://luckysitara.github.io/code-analyzer)
 
 ---
 
