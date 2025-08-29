@@ -78,7 +78,7 @@ npm run deploy
 ```
 
 The app will be hosted at:
-👉 [https://Afolabi-cyber.github.io/code-analyzer](https://luckysitara.github.io/code-analyzer)
+👉 [https://luckysitara.github.io/code-analyzer](https://luckysitara.github.io/code-analyzer)
 
 ---
 
